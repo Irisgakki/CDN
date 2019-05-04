@@ -1,2 +1,2 @@
-# cdn
-Yukira cdn
+# CDN
+My Blog's CDN
